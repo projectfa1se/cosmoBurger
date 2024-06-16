@@ -1,0 +1,16 @@
+@font-face {
+    font-family: TunnelFront;
+    src: url(assets/fonts/TunnelFront.ttf);
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: TunnelFront;
+    color: white;
+}
+
+body{
+    background-color: rgb(17, 17, 17);
+}
